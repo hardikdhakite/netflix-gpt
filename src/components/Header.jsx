@@ -1,12 +1,12 @@
-import React from 'react'
+import React from "react"
 
 const Header = () => {
     return (
-        <div className='absolute px-8 py-4 z-10'>
+        <div className="absolute px-8 py-4 z-10">
             <img
-                className='w-44'
-                src='https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/3840px-Netflix_2015_logo.svg.png'
-                alt='Netflix Logo'
+                className="w-44"
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/3840px-Netflix_2015_logo.svg.png"
+                alt="Netflix Logo"
             />
         </div>
     )
